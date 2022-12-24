@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_news_app_c7_alex/api_manges.dart';
-import 'package:flutter_news_app_c7_alex/home/news_item.dart';
+import 'package:flutter_news_app_c7_alex/home/news/news_item.dart';
 import 'package:flutter_news_app_c7_alex/model/NewsResponse.dart';
 import 'package:flutter_news_app_c7_alex/model/SourcesResponse.dart';
 import 'package:flutter_news_app_c7_alex/my_theme.dart';

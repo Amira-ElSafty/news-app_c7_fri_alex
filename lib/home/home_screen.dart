@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_news_app_c7_alex/home/category/category_details.dart';
 import 'package:flutter_news_app_c7_alex/home/category/category_fragment.dart';
-import 'package:flutter_news_app_c7_alex/home/home_drawer.dart';
+import 'package:flutter_news_app_c7_alex/drawer/home_drawer.dart';
 import 'package:flutter_news_app_c7_alex/home/setting/setting_tab.dart';
 import 'package:flutter_news_app_c7_alex/model/category.dart';
 import 'package:flutter_news_app_c7_alex/my_theme.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_news_app_c7_alex/home/news_container.dart';
-import 'package:flutter_news_app_c7_alex/home/tab_item.dart';
+import 'package:flutter_news_app_c7_alex/home/category/tab_item.dart';
+import 'package:flutter_news_app_c7_alex/home/news/news_container.dart';
 import 'package:flutter_news_app_c7_alex/model/SourcesResponse.dart';
 
 class TabContainer extends StatefulWidget{
